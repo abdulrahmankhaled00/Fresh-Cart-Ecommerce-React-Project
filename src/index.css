@@ -1,0 +1,154 @@
+/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Encode+Sans+Expanded:wght@300&display=swap');
+:root
+{
+    --main-color:#0aad0a;
+    --light-color:#f0f3f2;
+    --shadow: rgba(145,158,171,.2) 0px 2px 4px -1px,rgba(145,158,171,.14) 0px 4px 5px 0px,rgba(145,158,171,.12) 0px 1px 10px 0px;
+    --font-family:'Encode Sans Expanded', sans-serif;
+    --rating-color:#ffc908;
+}
+
+body{
+    font-family: var(--font-family) !important;
+    font-family: 'Cairo', sans-serif;
+
+}
+.rating-color
+{
+    color: var(--rating-color);
+}
+.cursor-pointer
+{
+    cursor: pointer;
+}
+a , a:hover{
+    color: var(--main-color) !important;
+    text-decoration: none !important;
+}
+.product:hover
+{
+    border: solid 1px var(--main-color);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transform: translateY(-5px);
+
+}
+.product
+{
+    border-radius: 10px;
+    transition: box-shadow 0.3s ease, transform 0.3s ease; /* Add transition for smooth effect */
+    border: solid 1px transparent;
+
+}
+.product .btn 
+{
+    transition: transform 1s , opacity 1s;
+    transform: translateY(100%);
+    opacity: 0;
+}
+.product:hover .btn 
+{
+    opacity: 1;
+    transform: translateY(-100%);
+
+}
+.font-sm
+{
+    font-size: 14px;
+}
+.text-main
+{
+    color: var(--main-color);
+}
+.bg-main
+{
+    background-color: var(--main-color) !important;
+}
+.bg-main-light 
+{
+    background-color: var(--light-color) !important;
+}
+.btnColor{
+    border: solid 1px var(--main-color);
+    border-radius: 5px;
+}
+.nav-link{
+    font-weight: 600 !important;
+    color: rgba(33, 37, 41, 0.75) !important;
+}
+.active{
+    color: var(--main-color) !important
+}
+.main {
+    background-color: var(--main-color) !important;
+}
+.slick-dots {
+    bottom: 24px !important;
+}
+
+.move{
+    bottom: 110px !important;
+    left: 50px;    
+}
+
+.font-w{
+    font-weight: 600 !important;
+
+}
+.btn-main:hover {
+    background-color: #099309 !important;
+    border-color: #088a08 !important;
+    color: #fff !important;
+}
+
+.btn{
+    font-weight: 500 !important;
+
+}
+
+.heart-place{
+    right: 5%;
+    top: 70%;
+}
+
+footer{
+    background-color: #F0F3F2;
+}
+
+@media only screen and (max-width : 1300px) {
+     .slider-image{
+        width: 100% !important;
+        padding: 0 !important;
+        margin-bottom: 16px;
+     }   
+} 
+@media (max-width: 575.98px) { /* max-width for screens <576px */
+    .custom-padding {
+      padding: 20px; /* Adjust padding as needed */
+    }
+  }
+  
+.circle-container {
+    cursor: pointer;
+    width: 150px;
+    height: 150px;
+    background-color: #F1F4F3; /* Apply the background color */
+    border-radius: 50%; /* Make it a circle */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: box-shadow 0.3s ease, transform 0.3s ease; /* Add transition for smooth effect */
+  }
+  
+  .circle-container:hover {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Shadow effect on hover */
+    transform: translateY(-5px); /* Move up effect on hover */
+  }
+  
+  .circle-image {
+    width: 80%;
+    height: 80%;
+    border-radius: 50%;
+    object-fit: cover;
+  }
+  
