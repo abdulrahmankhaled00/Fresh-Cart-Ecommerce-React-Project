@@ -1,3 +1,0 @@
- Fresh Cart
-
-Description: Fresh Cart is a modern eCommerce application developed with React, offering a seamless shopping experience. Utilizing a range of powerful dependencies such as Redux Toolkit for state management, React Query for data fetching, and Formik with Yup for form handling and validation, Fresh Cart ensures smooth functionality and user interaction. The app integrates payment processing for secure transactions and leverages React's Context API and useState for efficient state management. With additional features like responsive design, slick carousels, and real-time updates, Fresh Cart provides a dynamic and user-friendly platform for online shopping.
