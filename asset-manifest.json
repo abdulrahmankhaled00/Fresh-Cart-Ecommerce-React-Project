@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/Fresh-Cart-Ecommerce-React-Project/static/css/main.d4acc863.css",
+    "main.js": "/Fresh-Cart-Ecommerce-React-Project/static/js/main.902dd398.js",
+    "static/js/453.0297a6b4.chunk.js": "/Fresh-Cart-Ecommerce-React-Project/static/js/453.0297a6b4.chunk.js",
+    "static/media/fa-solid-900.ttf": "/Fresh-Cart-Ecommerce-React-Project/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
+    "static/media/fa-brands-400.ttf": "/Fresh-Cart-Ecommerce-React-Project/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
+    "static/media/fa-solid-900.woff2": "/Fresh-Cart-Ecommerce-React-Project/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
+    "static/media/fa-brands-400.woff2": "/Fresh-Cart-Ecommerce-React-Project/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
+    "static/media/error.svg": "/Fresh-Cart-Ecommerce-React-Project/static/media/error.084f5f5b0eb10d3216cb7c939108e1f6.svg",
+    "static/media/fa-regular-400.ttf": "/Fresh-Cart-Ecommerce-React-Project/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
+    "static/media/slider-image-1.jpg": "/Fresh-Cart-Ecommerce-React-Project/static/media/slider-image-1.c48bcf4a276ee51f933f.jpg",
+    "static/media/fa-regular-400.woff2": "/Fresh-Cart-Ecommerce-React-Project/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
+    "static/media/slider-image-2.jpg": "/Fresh-Cart-Ecommerce-React-Project/static/media/slider-image-2.f2e21d8020bf71047381.jpg",
+    "static/media/slider-image-3.jpg": "/Fresh-Cart-Ecommerce-React-Project/static/media/slider-image-3.fef999d9726407227d80.jpg",
+    "static/media/fa-v4compatibility.ttf": "/Fresh-Cart-Ecommerce-React-Project/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
+    "static/media/freshcart-logo.svg": "/Fresh-Cart-Ecommerce-React-Project/static/media/freshcart-logo.53f7a424c3aedc30a0fb46dc2278137c.svg",
+    "static/media/appstore-btn.svg": "/Fresh-Cart-Ecommerce-React-Project/static/media/appstore-btn.1c7c005af3cfcf8f6fed8c6ec9e0a9ea.svg",
+    "static/media/american-express.svg": "/Fresh-Cart-Ecommerce-React-Project/static/media/american-express.cfb9fa5f666f922106219a64b7b9f2f7.svg",
+    "static/media/mastercard.svg": "/Fresh-Cart-Ecommerce-React-Project/static/media/mastercard.2f85c47fea271eeec99838608ab0a97f.svg",
+    "static/media/googleplay-btn.svg": "/Fresh-Cart-Ecommerce-React-Project/static/media/googleplay-btn.1339418d80f0bd0bf755cf52017c044c.svg",
+    "static/media/fa-v4compatibility.woff2": "/Fresh-Cart-Ecommerce-React-Project/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
+    "static/media/amazonpay.svg": "/Fresh-Cart-Ecommerce-React-Project/static/media/amazonpay.d8c0f351dfb84b9568378528eb9a8d58.svg",
+    "static/media/paypal.svg": "/Fresh-Cart-Ecommerce-React-Project/static/media/paypal.1ee8e90779c122270194301256e2c789.svg",
+    "static/media/visa.svg": "/Fresh-Cart-Ecommerce-React-Project/static/media/visa.67c72dccd00fe5eba7790269ce3536d4.svg",
+    "static/media/slick.svg": "/Fresh-Cart-Ecommerce-React-Project/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Fresh-Cart-Ecommerce-React-Project/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Fresh-Cart-Ecommerce-React-Project/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Fresh-Cart-Ecommerce-React-Project/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Fresh-Cart-Ecommerce-React-Project/index.html",
+    "main.d4acc863.css.map": "/Fresh-Cart-Ecommerce-React-Project/static/css/main.d4acc863.css.map",
+    "main.902dd398.js.map": "/Fresh-Cart-Ecommerce-React-Project/static/js/main.902dd398.js.map",
+    "453.0297a6b4.chunk.js.map": "/Fresh-Cart-Ecommerce-React-Project/static/js/453.0297a6b4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4acc863.css",
+    "static/js/main.902dd398.js"
+  ]
+}
